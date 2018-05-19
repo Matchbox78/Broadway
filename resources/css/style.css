@@ -7,5 +7,17 @@ h1{
 
 }
 h2{
+  font-family: Helvetica;
+  font-size 18px;
+  color: white;
   text-align: center;
+}
+.heading{
+  background-color: black;
+}
+.process{
+  font-family: Helvetica;
+  font-size:32px;
+  font-weight: bold;
+  color: black;
 }
