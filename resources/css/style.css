@@ -34,4 +34,13 @@ h3{
   font-size: 23px;
   text-align: center;
   font-weight: bold;
-} b
+}
+p{
+  font-family: Helvetica;
+  font-size: 14px;
+  text-align: center;
+}
+.banner{
+  color:white;
+  background-color: black;
+}
