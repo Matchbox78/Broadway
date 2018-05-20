@@ -1,5 +1,7 @@
-h1{
+body{
   font-family: Helvetica;
+}
+h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
@@ -7,7 +9,6 @@ h1{
 
 }
 h2{
-  font-family: Helvetica;
   font-size 18px;
   color: white;
   text-align: center;
@@ -16,7 +17,6 @@ h2{
   background-color: black;
 }
 .process{
-  font-family: Helvetica;
   font-size:32px;
   font-weight: bold;
   color: black;
@@ -30,17 +30,21 @@ h2{
   margin-right: auto;
 }
 h3{
-  font-family: Helvetica;
   font-size: 23px;
   text-align: center;
   font-weight: bold;
 }
 p{
-  font-family: Helvetica;
   font-size: 14px;
   text-align: center;
 }
 .banner{
   color:white;
   background-color: black;
+}
+.copy{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
